@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @crashidian
-- 👀 I’m interested in enhancing my data scripting skills in R and Python. 
+- 👀 I’m interested in enhancing my data scripting skills in Python.
+- I am a Doctor of Technology student at Purdue University focusing in Conversational AI, Computational Linguistics, and Natural Language Processing. 
 
 
 <!---
